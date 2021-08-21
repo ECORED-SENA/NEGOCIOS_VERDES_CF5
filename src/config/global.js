@@ -155,7 +155,7 @@ export default {
             hash: 't_10_2',
           },
         ],
-      },      
+      },
     ],
     subMenu: [
       {
@@ -194,107 +194,124 @@ export default {
   referencias: [
     {
       referencia:
-        'Zlackman, C. (2012). 100 años de moda. Sistema de Bibliotecas SENA: ',
+        'Baena, G. V. (2011). Fundamentos de marketing: entorno, consumidor, estrategia e investigación comercial. Editorial UOC. ',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=sena_aleph000060086&vid=SENA&search_scope=sena_completo&tab=sena_completo&lang=es_ES&context=L',
+        'https://elibro-net.bdigital.sena.edu.co/es/lc/senavirtual/titulos/33480',
     },
     {
       referencia:
-        'Castellanos, O., Fumeque A., y Ramirez D. (2011). Análisis de tendencias: de la información hacia la innovación. Universidad Nacional de Colombia. Sistema de Bibliotecas SENA: ',
+        'Bertalanffy, L. V. (1976). General System theory: Foundations, Development, Applications. George Braziller.',
+    },
+    {
+      referencia:
+        'Cobarsi, B. (2011). Sistemas de información en la empresa. Editorial UOC. ',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000007947',
+        'https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/33493',
     },
     {
-      referencia:
-        'Harpersbazaar. (2019). La ropa que eliges afecta a tu estado de ánimo y cerebro, según expertos. En arpersbazaar.mx.',
-    },
-    {
-      referencia:
-        'Lafuente M., Navarro J., y Navarro J. (2005). Ilustración de moda. Sistema de Bibliotecas SENA',
+      referencia: 'Erickson, B. (2010). Ventas. Biblioteca de aula. UNESCO. ',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000025549',
+        'https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/36393',
     },
     {
       referencia:
-        'Laver, J.,  Albizua, H., y Fortea, B. (1990). Breve historia del traje y la moda. Sistema de Bibliotecas SENA. ',
-    },
-    {
-      referencia:
-        'Navarro, J.,  y Lafuente, M. (2010). Ilustración de moda: dibujo plano. Sistema de Bibliotecas SENA:',
+        'Ministerio de Ambiente y Desarrollo Sostenible. (2014). Programa Nacional de Biocomercio Sostenible (2014-2024). Ministerio de Ambiente y Desarrollo Sostenible.  ',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/q6j6k0/sena_aleph000023241',
+        'https://www.minambiente.gov.co/index.php/negocios-verdes-y-sostenibles/negocios-verdes/que-son-los-negocios-verdeshttps://www.minambiente.gov.co/index.php/negocios-verdes-y-sostenibles/negocios-verdes/que-son-los-negocios-verdes',
     },
     {
       referencia:
-        'Áciedad Americana de Ensayos y Materiales (ASTM). (2003). Textiles. Editorial Staff. [Book]. Sistema de Bibliotecas SENA.',
+        'Ministerio de Ambiente, Vivienda y Desarrollo Territorial. (2010). Política Nacional de Producción y Consumo. Ministerio de Ambiente, Vivienda y Desarrollo Territorial.  ',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000051551',
+        'https://www.icesi.edu.co/blogs/pycs/files/2011/09/Pol%C3%ADtica-de-PyCS-FINAL.pdf',
     },
     {
       referencia:
-        'Szkutnicka, B., Cuenca, C., Koyama, A. (2010). El dibujo técnico de moda paso a paso. Sistema de Bibliotecas SENA.',
+        'Monferrer, D. (2013). Fundamentos de marketing. Universitat Jaume. ',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000057728',
+        'http://repositori.uji.es/xmlui/bitstream/handle/10234/49394/s74.pdf',
+    },
+    {
+      referencia:
+        'Presidencia de la República de Colombia. (2005). Decreto 1220, abril 21 de 2005, por el cual se reglamenta el Título VIII de la Ley 99 de 1993 sobre licencias ambientales. ',
+      link:
+        'https://cda.gov.co/apc-aa-files/64313463346136383731653464623265/dec_1220_2005.pdf  ',
+    },
+    {
+      referencia:
+        'Taylor, F. (1911). The Principles of Scientific Management. Harper & Brothers.',
     },
   ],
   glosario: [
     {
-      termino: 'MoodBoard',
+      termino: 'Biocomercio',
       significado:
-        'su traducción literal es mapa de inspiración y aunque su uso está muy asociado al ámbito de la decoración de interiores o la moda, <br/>realmente se utiliza en entornos creativos muy diversos, desde el diseño de productos o servicios al audiovisual o el diseño gráfico.',
+        'conjunto de actividades de recolección, producción, procesamiento o comercialización de bienes y servicios derivados de la biodiversidad nativa, bajo criterios de sostenibilidad ambiental, social y económica.',
     },
     {
-      termino: 'Suftware',
+      termino: 'Competencia',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'conjunto de organizaciones que compiten entre sí en la misma categoría por el liderazgo de la industria.',
     },
     {
-      termino: 'Pirognóstico',
+      termino: 'Crecimiento verde',
       significado:
-        'ensayo sin componentes reactivos, quiere decir, reconocimiento de los componentes, mediante la aplicación adecuada del fuego.',
+        'hace referencia al fomento del crecimiento y desarrollo económico, garantizando la continuidad de los recursos y servicios ambientales de los cuales depende nuestro bienestar.',
     },
     {
-      termino: 'Áectores',
+      termino: 'Demanda',
       significado:
-        'en software de diseño, son líneas que se crean y permiten, expandir, modificar, al tamaño que sea sin pixelarse porque se unen por coordenadas matemáticas del programa y no se generan por números fijos.',
+        'cantidad de bienes y servicios que son adquiridos por los consumidores.',
     },
     {
-      termino: 'Moda',
+      termino: 'Desarrollo limpio',
       significado:
-        'hábito repetitivo que identifica a una persona, una especie de presión social, que debe consumir, utilizar o hacer.',
+        'el Mecanismo de Desarrollo Limpio (MDL) es un mecanismo cooperativo establecido bajo el Protocolo de Kyoto, el cual tiene el potencial de ayudar a los países en desarrollo a alcanzar un desarrollo sostenible mediante la promoción de inversiones ambientalmente amigables por parte de gobiernos o empresas de los países industrializados.',
     },
     {
-      termino: 'Diseño',
+      termino: 'Desarrollo sostenible',
       significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
+        'el desarrollo sostenible se define como el desarrollo que satisface las necesidades actuales sin comprometer los recursos y posibilidades de las generaciones futuras.',
     },
     {
-      termino: 'Tipología',
+      termino: 'Desarrollo sostenible',
       significado:
-        'estudio de los tipos o modelos que se usan para clasificar en diversas ciencias o disciplinas.',
+        'principio organizador que busca satisfacer las necesidades actuales sin comprometer los recursos disponibles de las generaciones futuras.',
     },
     {
-      termino: 'Bidimensional',
+      termino: 'Economía verde',
       significado:
-        'que se representa según su altura y su anchura y no su profundidad.',
+        'es un sistema de actividades económicas relacionadas con la producción, distribución y consumo de bienes y servicios que resulta en mejoras del bienestar humano en el largo plazo, sin, al mismo tiempo, exponer a las generaciones futuras a riesgos ambientales y escasez ecológicas significativas.',
     },
     {
-      termino: 'Interés Inferior del menor',
+      termino: 'Empresa',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'organismo, institución dedicada a la generación de beneficios sociales, económicos, culturales o medioambientales.',
     },
     {
-      termino: 'Interseccionalidad',
+      termino: 'Oferta',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'cantidad de bienes y servicios que están dispuestos para la venta.',
     },
     {
-      termino: 'Interés superior del menor',
+      termino: 'Segmentación de mercados',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'segmentar es diferenciar el mercado total de un producto o servicio en grupos diferentes de consumidores, homogéneos entre sí y diferentes a los demás, en cuanto a hábitos, necesidades y gustos, que podrían requerir productos o combinaciones de marketing diferentes. ',
     },
   ],
   complementario: [
+    {
+      texto:
+        'Ministerio de Ambiente y Desarrollo Sostenible. (2014). Plan Nacional de Negocios Verdes. Ministerio de Ambiente y Desarrollo Sostenible',
+      tipo: 'PDF',
+      descarga: '/downloads/Plan_Nacional_de_Negocios_Verdes.pdf',
+    },
+    {
+      texto:
+        'Ministerio de Ambiente, Vivienda y Desarrollo Territorial. (2010). Política Nacional de Producción y Consumo. Ministerio de Ambiente, Vivienda y Desarrollo Territorial. ',
+      tipo: 'PDF',
+      descarga: '/downloads/Política-de-PyCS-FINAL.pdf',
+    },
     {
       texto:
         'BIC., (2015). “2 minutos para entender el desarrollo sostenible – Spanish”',

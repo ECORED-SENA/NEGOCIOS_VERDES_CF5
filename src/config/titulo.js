@@ -1,2 +1,1 @@
-module.exports =
-  'Diagnóstico del plan comercial'
+module.exports = 'Diagnóstico del plan comercial'
