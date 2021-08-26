@@ -8,6 +8,8 @@
         span 6
       h1  Plataforma estratégica
 
+    p.mb-5 Una empresa nace cuando se estructuran y establecen los diferentes lineamientos corporativos que definen la cultura corporativa de la organización. Estos se vuelven la base, el soporte o la plataforma que afianza o sostiene la organización y sobre la cual giran todas las demás acciones. La componen aspectos como:
+
     .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-in")  
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/tema6/img01.png')})`}"
@@ -15,7 +17,7 @@
       .bloque-texto-g__texto.p-5
         p.mb-0 La misión, la visión, los valores, los principios corporativos, las políticas organizacionales, posibles compromisos empresariales sociales y ambientales, un mapa de procesos que plantee procesos limpios y ecológicos; además, la estructura de la organización por áreas y por cargos. 
 
-    p.mp-4 La plataforma estratégica se alimenta con actividades como <b>la planeación estratégica, el plan de marketing y la planeación comercial</b>, debido a que el objetivo de estos procesos de planeación es garantizar el cumplimiento de la misión y visión; apoyados en los demás elementos de la plataforma estratégica como: <b>los valores organizacionales, los principios, el mapa de procesos o la jerarquía organizacional</b>.
+    p.mp-4 La plataforma estratégica se alimenta con actividades como <b>la planeación estratégica, el plan de <i>marketing</i> y la planeación comercial</b>, debido a que el objetivo de estos procesos de planeación es garantizar el cumplimiento de la misión y visión; apoyados en los demás elementos de la plataforma estratégica como: <b>los valores organizacionales, los principios, el mapa de procesos o la jerarquía organizacional</b>.
     p.mb-5 Para las empresas dedicadas a la economía verde es indispensable precisar y asegurar la formulación, análisis, ejecución y control de la plataforma estratégica, esta se vuelve el norte organizacional, hacia donde apuntan las diferentes estrategias y recursos de la empresa. Además de esto, su importancia radica en que se formula para el cliente interno, el cliente externo y demás grupos de interés, convirtiendo esta herramienta en una oportunidad para generar posicionamiento por los diferentes canales de comunicación y sistemas de información que usa la empresa. Ahora, se profundizará en ellos:
 
     TabsA.color-primario.mb-5    

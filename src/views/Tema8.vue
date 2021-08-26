@@ -9,7 +9,7 @@
       h1  La empresa
 
     p.mb-4 Por el hecho de pertenecer a un ecosistema a la empresa se puede considerar como un organismo que interactúa en armonía con su entorno social, medioambiental, económico, político, legal, generando utilidades a los diferentes grupos de interés que intervienen en ella. Bajo el concepto newtoniano se considera la empresa como una máquina que podía ser diseñada bajo principios científicos para lograr la máxima eficacia y eficiencia orientada a la consecución de unos objetivos muy definidos (Cobarsi, 2011, p. 28).
- 
+    p.mb-4 <b>Concepto de empresa</b>. Taylor (1911) aplicó las siguientes premisas al diseño de trabajo orientado a la eficiencia en plantas industriales:
     figure(data-aos="zoom-in")  
       img(src='@/assets/curso/tema8/img01.svg')
 
@@ -55,7 +55,7 @@
         div
           p.mb-0(style="color: #529AD9 ") <b>Concepto empresa como una red.</b>
           br
-          Una red es un conjunto de nodos que se relacionan entre sí mediante vínculos. Todo depende de, ¿Qué consideramos como un nodo en un caso concreto y de que vínculo definimos? Así podremos definir la empresa como la red de vínculos de confianza e intercambio de la información de las personas que trabajan en ella. Esta red puede extenderse más allá del ámbito estricto de la empresa (Cobarsi 2011, p. 38).
+          p Una red es un conjunto de nodos que se relacionan entre sí mediante vínculos. Todo depende de, ¿Qué consideramos como un nodo en un caso concreto y de que vínculo definimos? Así podremos definir la empresa como la red de vínculos de confianza e intercambio de la información de las personas que trabajan en ella. Esta red puede extenderse más allá del ámbito estricto de la empresa (Cobarsi 2011, p. 38).
 
 </template>
 

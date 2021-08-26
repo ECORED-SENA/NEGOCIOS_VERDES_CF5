@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Diagnóstico del plan comercial',
     descripcionCurso:
-      'La planeación comercial es un proceso del mercadeo donde a través del análisis situacional y diagnóstico de las variables del macro y microentorno de la empresa se trazan los objetivos en marketing y ventas. La organización, las actividades de control, la disciplina operativa y la articulación con las demás áreas son la clave para la ejecución del plan y alcanzar los objetivos de la misión y visión. ',
+      'La planeación comercial es un proceso del mercadeo donde a través del análisis situacional y diagnóstico de las variables del macro y microentorno de la empresa se trazan los objetivos en <i>marketing</i> y ventas. La organización, las actividades de control, la disciplina operativa y la articulación con las demás áreas son la clave para la ejecución del plan y alcanzar los objetivos de la misión y visión. ',
     imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.png'),
   },
@@ -151,19 +151,13 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '10.2',
-            titulo: 'Criterios para la realizar segmentación de mercados ',
+            titulo: 'Criterios para realizar la segmentación de mercados ',
             hash: 't_10_2',
           },
         ],
       },
     ],
     subMenu: [
-      {
-        nombreRuta: 'actividad',
-        icono: 'far fa-question-circle',
-        titulo: 'Actividad didáctica',
-        desarrolloContenidos: true,
-      },
       {
         nombreRuta: 'glosario',
         icono: 'fas fa-sort-alpha-down',
@@ -194,7 +188,7 @@ export default {
   referencias: [
     {
       referencia:
-        'Baena, G. V. (2011). Fundamentos de marketing: entorno, consumidor, estrategia e investigación comercial. Editorial UOC. ',
+        'Baena, G. V. (2011). Fundamentos de <i>marketing</i>: entorno, consumidor, estrategia e investigación comercial. Editorial UOC. ',
       link:
         'https://elibro-net.bdigital.sena.edu.co/es/lc/senavirtual/titulos/33480',
     },
@@ -227,7 +221,7 @@ export default {
     },
     {
       referencia:
-        'Monferrer, D. (2013). Fundamentos de marketing. Universitat Jaume. ',
+        'Monferrer, D. (2013). Fundamentos de <i>marketing</i>. Universitat Jaume. ',
       link:
         'http://repositori.uji.es/xmlui/bitstream/handle/10234/49394/s74.pdf',
     },
@@ -296,7 +290,7 @@ export default {
     {
       termino: 'Segmentación de mercados',
       significado:
-        'segmentar es diferenciar el mercado total de un producto o servicio en grupos diferentes de consumidores, homogéneos entre sí y diferentes a los demás, en cuanto a hábitos, necesidades y gustos, que podrían requerir productos o combinaciones de marketing diferentes. ',
+        'segmentar es diferenciar el mercado total de un producto o servicio en grupos diferentes de consumidores, homogéneos entre sí y diferentes a los demás, en cuanto a hábitos, necesidades y gustos, que podrían requerir productos o combinaciones de <i>marketing</i> diferentes. ',
     },
   ],
   complementario: [
@@ -312,34 +306,6 @@ export default {
       tipo: 'PDF',
       descarga: '/downloads/Política-de-PyCS-FINAL.pdf',
     },
-    {
-      texto:
-        'BIC., (2015). “2 minutos para entender el desarrollo sostenible – Spanish”',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
-    },
-    {
-      texto:
-        'Arnold, M. y Osorio, F., (1998). Introducción a los conceptos básicos de la Teoría general de sistemas. Cinta moebio 3: 40-49',
-      tipo: 'Página web',
-      descarga: '/downloads/prueba.pdf',
-    },
-    {
-      texto:
-        'Balboa, C. y Dominguez, M. (2014). Economía circular como marco para el ecodiseño: el modelo ECO-3. Informador Técnico (Colombia) Volumen 78, No. 1. Pág. 52-90.',
-      tipo: 'Artículo científico',
-      link: 'https://www.google.com/',
-    },
-    {
-      texto: 'Economía de Rosquilla. (s.f.).',
-      tipo: 'Página web',
-      descarga: '/downloads/prueba.pdf',
-    },
-    {
-      texto: '2 minutos para entender el desarrollo sostenible – Spanish',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
-    },
   ],
   creditos: {
     liderEquipo: [
@@ -354,7 +320,28 @@ export default {
         nombre: 'Rafael Neftalí Lizcano Reyes',
         cargo: 'Asesor metodológico y pedagógico',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'José Alberto Martínez Gómez',
+        cargo: 'Experto temático',
+        centro: 'Centro de Comercio y servicios  - Regional Tolima',
+      },
+      {
+        nombre: 'Paola Moya Peralta   	        	',
+        cargo: 'Diseñadora instruccional',
+        centro: 'Centro para la Industria de la Comunicación Gráfica',
+      },
+      {
+        nombre: 'Carolina Coca Salazar',
+        cargo: 'Revisora metodológica y pedagógica',
+        centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
+      },
+      {
+        nombre: 'José Gabriel Ortiz Abella',
+        cargo: 'Corrector de estilo',
+        centro:
+          'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
       },
     ],
     desarrolloProducto: [
@@ -362,43 +349,65 @@ export default {
         nombre: 'Francisco José Lizcano Reyes',
         cargo: 'Responsable del equipo',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Leyson Fabian Castaño Perez',
         cargo: 'Soporte organizacional',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
       {
-        nombre: ['Nombre 1', 'Nombre 2'],
-        cargo: 'Diseño web',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+        nombre: 'Andrés Felipe Herrera Roldan',
+        cargo: 'Producción audiovisual',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
       {
-        nombre: 'Nombre',
-        cargo: 'Desarrollo Front-End',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
-      },
-      {
-        nombre: 'Nombre',
+        nombre: 'María Carolina Tamayo López ',
         cargo: 'Producción audiovisual',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Gilberto Junior Rodriguez Rodriguez',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Wilson Andrés Arenales Cáceres',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Zuleidy María Ruiz Torres',
+        cargo: 'Producción audiovisual',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
+      },
+      {
+        nombre: 'Edgar Mauricio Cortés García',
+        cargo: 'Desarrollo front-end',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Andrés Mauricio Santaella Ochoa',
+        cargo: 'Soporte front-end',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Yuli Marcela Gómez Tarazona',
         cargo: 'Validación de diseño y contenido',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
     ],
     gestoresRepositorio: [
       {
         nombre: 'Milady Tatiana Villamil Castellanos',
         cargo: 'Validación y vinculación en plataforma LMS',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
     ],
   },

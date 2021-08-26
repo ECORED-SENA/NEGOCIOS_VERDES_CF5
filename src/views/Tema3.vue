@@ -19,7 +19,7 @@
 
     .row.mb-5.justify-content-center
       .col-lg-5
-        a.anexo.mb-4(:href="obtenerLink('/downloads/Plan_Nacional_de_Negocios_Verdes')" target="_blank")
+        a.anexo.mb-4(:href="obtenerLink('/downloads/Plan_Nacional_de_Negocios_Verdes.pdf')" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto

@@ -8,6 +8,8 @@
         span 9
       h1  La competencia
 
+    p.mb-5 Ninguna empresa se encuentra sola en el mercado efectuando sus operaciones de producción, logística y comercialización; por ello, en mercadeo se define a la competencia como: 
+
     .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-out")  
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/tema9/img01.png')})`}"

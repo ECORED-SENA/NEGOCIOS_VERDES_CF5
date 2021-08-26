@@ -30,10 +30,10 @@
 
             
       .py-4.py-md-5(titulo="Los clientes" :icono="require('@/assets/curso/tema5/img03.svg')")
-        p.mb-5 Ninguna empresa podría sostenerse en ningún mercado sin contar con el determinado número de clientes que garanticen a través de las compras los ingresos necesarios para asegurar la supervivencia de la organización. Ante el aumento de nuevos competidores los ejecutivos del marketing luchan constantemente por la consecución de nuevos clientes, la conservación o retención de los actuales. Por tal razón se requiere que:
+        p.mb-5 Ninguna empresa podría sostenerse en ningún mercado sin contar con el determinado número de clientes que garanticen a través de las compras los ingresos necesarios para asegurar la supervivencia de la organización. Ante el aumento de nuevos competidores los ejecutivos del <i>marketing</i> luchan constantemente por la consecución de nuevos clientes, la conservación o retención de los actuales. Por tal razón se requiere que:
         .row.mb-5.justify-content-center(data-aos="zoom-out")          
           .col-lg-4.d-flex.align-items-center            
-              p.mb-0  Las empresas dedicadas al marketing verde permanentemente tipifiquen o realicen procesos de segmentación para orientar sus productos hacia nuevos mercados, que amplíen su base de clientes, y generen mayores ingresos. 
+              p.mb-0  Las empresas dedicadas al <i>marketing</i> verde permanentemente tipifiquen o realicen procesos de segmentación para orientar sus productos hacia nuevos mercados, que amplíen su base de clientes, y generen mayores ingresos. 
           .col-lg-4
             figure
               img(src='@/assets/curso/tema5/img08.svg')
@@ -60,9 +60,9 @@
               p.text-center.mb-0(style="color:white") Capacidad de negociación con los clientes.
 
 
-        Los competidores son grandes referentes e influenciadores empresariales en buenas prácticas de manufactura, se preparan e invierten para obtener certificaciones y para implementar acciones que fortalezcan la legislación y normatividad.
+        p Los competidores son grandes referentes e influenciadores empresariales en buenas prácticas de manufactura, se preparan e invierten para obtener certificaciones y para implementar acciones que fortalezcan la legislación y normatividad.
       .py-4.py-md-5(titulo="Los grupos de interés" :icono="require('@/assets/curso/tema5/img05.svg')")
-        p.mb-5 Son aquellos grupos de personas o comunidades que se benefician de las operaciones empresariales o que estarían dispuestas a contribuir con el bienestar económico de la organización y con el logro de los diferentes objetivos. Son vitales para el marketing verde por el alto grado de relacionamiento que presentan con la organización. Además, podrían ser consumidores actuales o potenciales de la empresa. 
+        p.mb-5 Son aquellos grupos de personas o comunidades que se benefician de las operaciones empresariales o que estarían dispuestas a contribuir con el bienestar económico de la organización y con el logro de los diferentes objetivos. Son vitales para el <i>marketing</i> verde por el alto grado de relacionamiento que presentan con la organización. Además, podrían ser consumidores actuales o potenciales de la empresa. 
         .row.mb-5.justify-content-center                 
           .col-lg-8
             figure(data-aos="flip-right")  
