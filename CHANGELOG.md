@@ -2,6 +2,68 @@
 
 Estos son los cambios hechos en la ECORED-BASE-2021
 
+## 5.0.0 - 29-10-2021
+
+### Agregado
+
+- Componente tarjeta-avatar-slide
+- Componente Tarjeta-slide
+- Componente lineaTiempoE
+- Componente SlyderF
+- Componente Zomm
+
+### Arreglado
+
+- Agregar numero a la imagen infografiaca e infografiaca-B (numero="1")
+- los botones del slyderA y slyderA quedan abajo (tipo="b")
+- titulo-principal y titulo-segundo de colores
+- acordiones agregar clase para estado activo (acordion__activo)
+- espacio para el icono del link de las referencias bibliograficas
+- deshabilitar descargable en local
+- SlyderB, SlyderC, SlyderD quitar titulo cuando no se ponga la llave
+- ponerle min-width a los creditos para moviles
+- material complementario recibe mas de un link o descarga
+- referencias bibliograficas y glosario se ordena incluso con tags html
+
+#
+
+## 4.2.0 - 21-09-2021
+
+### Agregado
+
+- Componente ImagenInfograficaB
+- Componente tarjeta-flip
+
+### Arreglado
+
+- Los titulos y todos los props que van dentro de las vistas soportan html
+  - AcordionA
+  - LineaTiempoA
+  - LineaTiempoB
+  - LineaTiempoC
+  - LineaTiempoD
+  - PasosB
+  - SlyderB
+  - SlyderC
+  - SlyderD
+  - TabsA
+  - TabsB
+  - TabsC
+
+#
+
+## 4.1.1 - 26-08-2021
+
+### Agregado
+
+- Glosario ahora recibe HTML a través de la llave terminoHtml (debe tener ambas llaves termino y terminoHtml para que funcione)
+
+### Arreglado
+
+- Doble slash (//) en enlaces dentro de la plantilla
+
+#
+
 ## 4.1.0 - 26-07-2021
 
 ### Cambios
